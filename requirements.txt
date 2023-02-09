@@ -1,0 +1,15 @@
+tensorflow
+scikit-learn
+seaborn
+pandas
+tqdm
+numpy
+humanize
+mne
+matplotlib
+graphviz
+pydot
+py-cpuinfo
+mrmr_selection
+tensorflow-addons
+numpysocket
