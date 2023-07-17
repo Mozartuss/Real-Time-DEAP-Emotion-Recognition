@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use parts of the repository, please cite it in your paper as below."
+authors:
+- family-names: "Kleybolte"
+  given-names: "Lukas"
+  orcid: "https://orcid.org/0000-0002-9886-5592"
+- family-names: "Märtin"
+  given-names: "Christian"
+  orcid: "https://orcid.org/0000-0002-3646-1920"
+title: "A Novel EEG-Based Real-Time Emotion Recognition Approach Using Deep Neural Networks on Raspberry Pi"
+doi: "10.1007/978-3-031-35599-8_15"
+version: 1.0.0
+journal: "Human-Computer Interaction. Technological Innovation"
+volume-title: "Lecture notes in computer science"
+volume: "14012"
+publisher: "Springer International Publishing"
+editor: "Kurosu, Masaaki and Hashizume, Ayako"
+isbn: "978-3-031-35598-1"
+month: 7
+start: 231 # First page number
+end: 244 # Last page number
+title: "A Swarm Intelligence Approach: Combination of Different EEG-Channel Optimization Techniques to Enhance Emotion Recognition"
+year: 2023
